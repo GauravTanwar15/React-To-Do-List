@@ -1,6 +1,6 @@
 # React-To-Do-List
 ## website- https://gauravtanwar15.github.io/React-To-Do-List/
-![image](https://user-images.githubusercontent.com/76563215/132128581-40fbe266-160e-49a3-88d7-1c7bd023a58a.png)
-![image](https://user-images.githubusercontent.com/76563215/132234037-ba2795d0-c1de-4829-b2aa-0414fc091de6.png)
+<img width="960" alt="2021-09-06" src="https://user-images.githubusercontent.com/76563215/132234199-26a4fe18-1ad7-4448-bb57-26afa253b7b4.png">
+
 
 
